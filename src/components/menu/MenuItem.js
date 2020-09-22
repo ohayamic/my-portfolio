@@ -101,10 +101,8 @@ class MenuItem extends Component {
       return item.category === id;
     });
     if (id === "all") {
-      //console.log(getMenus)
       return this.setState({ filtered: getMenus });
     } else {
-      // console.log(this.state.filtered)
       return this.setState({ filtered: myMenus });
     }
   };

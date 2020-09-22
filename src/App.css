@@ -746,7 +746,8 @@ Projects Components
     "one"
     "two"
     "three"
-    "four";
+    "four"
+    "five";
   margin: 0px 20px;
   padding: 20px;
 }
@@ -775,7 +776,7 @@ Projects Components
 }
 
 .project-five {
-  grid-area: four;
+  grid-area: five;
   margin-bottom: 20px;
 }
 
@@ -787,7 +788,8 @@ Projects Components
     grid-auto-rows: 1fr 1fr;
     grid-template-areas:
       "one two "
-      "three four ";
+      "three four "
+      "five five";
   }
   .project__img {
     height: 200px;
@@ -806,6 +808,9 @@ Projects Components
 
   .project-four {
     grid-area: four;
+  }
+  .project-five {
+    grid-area: five;
   }
 }
 

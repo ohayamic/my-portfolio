@@ -556,6 +556,7 @@ Adjust AboutComponents as screen size changes
 }
 
 .skill--content {
+  box-sizing: border-box;
   margin: 10px;
   padding: 20px;
 }
@@ -564,8 +565,12 @@ Adjust AboutComponents as screen size changes
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
 }
+.skill--knowledge h4 {
+  font-size: 12px;
+}
 
 .skill--knowledge p {
+  font-size: 12px;
   margin-bottom: 2px;
 }
 
@@ -582,11 +587,29 @@ Adjust AboutComponents as screen size changes
   cursor: pointer;
 }
 
+@media screen and (min-width: 768px) {
+  .skill-container {
+    display: grid;
+    grid-template-columns: 380px 1fr;
+    grid-template-rows: 1fr;
+  }
+  .skill--knowledge p {
+    font-size: 14px;
+    margin-bottom: 2px;
+  }
+  .skill--knowledge h4 {
+    font-size: 14px;
+  }
+}
 @media screen and (min-width: 992px) {
   .skill-container {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr;
+  }
+  .skill--knowledge p {
+    font-size: 14px;
+    margin-bottom: 2px;
   }
 }
 

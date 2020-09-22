@@ -4,7 +4,7 @@ import React from "react";
 class MainColor extends React.Component {
   state = {
     text: "#f1f5f8",
-    colors: ["green", "red", "rgba(133,122,200)", "#f15025"],
+    colors: ["green", "red", "purple", "#f15025"],
   };
 
   // change the page background by randomising the state

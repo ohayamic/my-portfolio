@@ -608,8 +608,11 @@ Adjust AboutComponents as screen size changes
     grid-template-rows: 1fr;
   }
   .skill--knowledge p {
-    font-size: 14px;
+    font-size: 16px;
     margin-bottom: 2px;
+  }
+  .skill--knowledge h4 {
+    font-size: 16px;
   }
 }
 
@@ -926,6 +929,7 @@ Hex/Main Component Projects
   text-align: center;
 }
 .hex-container h2 {
+  font-size: 1.25rem;
   height: 120px;
   display: flex;
   justify-content: center;
@@ -1117,7 +1121,7 @@ Start of Menu Component Projects
   color: var(--clr-grey-10);
 }
 .menu-section {
-  width: 95vw;
+  width: 90vw;
   margin: 0 auto 2rem auto;
   max-width: 1170px;
   display: grid;
@@ -1128,7 +1132,7 @@ Start of Menu Component Projects
   display: grid;
   grid-template-columns: 1fr;
   gap: 1rem 2rem;
-  max-width: 25rem;
+  max-width: 23rem;
 }
 .photo {
   object-fit: cover;

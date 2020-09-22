@@ -48,7 +48,7 @@ const SkillLevel = () => {
       <h3> skills overview</h3>
       <p style={{ textAlign: "left" }}>
         My passion is becoming the best in my field and ultimately in my region.
-        From everything relating to Web-developement(HTML, CSS and JavaScript
+        From everything relating to Web-developement (HTML, CSS and JavaScript
         and its Frameworks), to database administration(Oracle, SQL and
         postgreSQL) and Machine Learning.
       </p>

@@ -551,14 +551,14 @@ Adjust AboutComponents as screen size changes
   grid-template-rows: 1fr 1fr;
   justify-content: end;
   align-content: center;
-  padding: 10px 40px;
+  padding: 10px 20px;
   border-radius: 2rem;
 }
 
 .skill--content {
   box-sizing: border-box;
   margin: 10px;
-  padding: 20px;
+  padding: 10px;
 }
 
 .skill--knowledge {

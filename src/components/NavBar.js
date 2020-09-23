@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import logo from "../images/logo.svg";
+import logo from "../images/logo.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars } from "@fortawesome/free-solid-svg-icons";
 
@@ -51,17 +51,21 @@ const NavBar = () => {
               </Link>
             </li>
             <li>
-              <Link to="about" className="scroll-link" onClick={handleLinks}>
+              <Link to="/about" className="scroll-link" onClick={handleLinks}>
                 about
               </Link>
             </li>
             <li>
-              <Link to="skills" className="scroll-link" onClick={handleLinks}>
+              <Link to="/skills" className="scroll-link" onClick={handleLinks}>
                 skills
               </Link>
             </li>
             <li>
-              <Link to="projects" className="scroll-link" onClick={handleLinks}>
+              <Link
+                to="/projects"
+                className="scroll-link"
+                onClick={handleLinks}
+              >
                 projects
               </Link>
             </li>

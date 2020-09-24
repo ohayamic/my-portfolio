@@ -101,12 +101,10 @@ const About = () => {
                 to be happy, set a goal that commands your thought, liberates
                 your energy and inspires your hopes.
               </p>
-              <h4>
-                <small>
-                  " My goal for this year is being an expert in javascript,
-                  React.js "
-                </small>
-              </h4>
+              <h5>
+                " My goal for this year is being an expert in javascript,
+                React.js "
+              </h5>
             </div>
           </article>
         </article>

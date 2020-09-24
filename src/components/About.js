@@ -28,17 +28,20 @@ const About = () => {
           about <span>me</span>
         </h2>
         <p>
-          Hi, I'm Michael a Junior Full-Stack Software Developer.{" "}
+          Hi, I'm Michael a Junior Full-Stack Software Developer. My passion is
+          in building Websites and Applications using the framework
+          Flask/Django/React.js. For the backend I am proficient with
+          Postgresql/SQL/MYSQL and python. On the other-hand, I use HTML, CSS
+          and Javascript for Frontend. I am currently developing an application
+          that can enable International students in thüringen to collaborate and
+          share ideas in other to tackle problems facing their motherland and
+          the society at large.{" "}
           <h5>
-            {" "}
             My passion is to become the best there is in my field of expertise
             especially in African region. From Web-developement (HTML, CSS and
             JavaScript and its Frameworks), database administration (Oracle, SQL
             and postgreSQL) to Machine Learning and Robotics.
-          </h5>{" "}
-          I am currently developing an application that can enable International
-          students in thüringen to collaborate and share ideas in other to
-          tackle problems facing their motherland and the society at large.{" "}
+          </h5>
         </p>
       </div>
       <div className="about-center section-center">

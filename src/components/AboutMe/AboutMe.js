@@ -41,13 +41,17 @@ const About = () => {
         </h2>
         <p>
           Hi, I'm Michael a Junior Frontend/Full-Stack Software Developer. My
-          passion is in building Websites and Applications using Flask/Django
-          for the Backend with databases like Postgresql or SQL or MYSQL and
-          HTML, CSS, Javascript and React.js for Frontend were the individuals
-          (mostly African International in Thüringen State) can collaborate and
-          share ideas in other to fight problems facing their motherland and the
-          society they are in. I also love learning new Technologies such as
-          Machine Learning, Database Technologies and finally customer relations
+          passion is in building Websites and Applications for both frontend and
+          backend using the framework Flask/Django/React.js. For the backend I
+          am proficient with Postgresql or SQL or MYSQL and python. On the
+          other-hand, I use HTML, CSS and Javascript for Frontend. Currently
+          developing an application (mostly International) where individuals
+          collaborate and share ideas in other to fight problems facing their
+          motherland and the society in which they are in.{" "}
+          <h5>
+            I also love learning new Technologies such as Machine Learning,
+            other web technologies, Database Technologies and customer relations
+          </h5>
         </p>
       </div>
       <div className="about-center section-center">

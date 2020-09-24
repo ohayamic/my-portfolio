@@ -36,12 +36,12 @@ const About = () => {
           that can enable International students in thüringen to collaborate and
           share ideas in other to tackle problems facing their motherland and
           the society at large.{" "}
-          <h5>
+          <b>
             My passion is to become the best there is in my field of expertise
             especially in African region. From Web-developement (HTML, CSS and
             JavaScript and its Frameworks), database administration (Oracle, SQL
             and postgreSQL) to Machine Learning and Robotics.
-          </h5>
+          </b>
         </p>
       </div>
       <div className="about-center section-center">

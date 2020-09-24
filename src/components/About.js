@@ -33,7 +33,7 @@ const About = () => {
           Flask/Django/React.js. For the backend I am proficient with
           Postgresql/SQL/MYSQL and python. On the other-hand, I use HTML, CSS
           and Javascript for Frontend. I am currently developing an application
-          that can mostly International students in thüringen to collaborate and
+          that can enable International students in thüringen to collaborate and
           share ideas in other to tackle problems facing their motherland and
           the society at large.{" "}
           <h5>

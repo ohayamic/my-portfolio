@@ -28,18 +28,17 @@ const About = () => {
           about <span>me</span>
         </h2>
         <p>
-          Hi, I'm Michael a Junior Full-Stack Software Developer. My passion is
-          in building Websites and Applications using the framework
-          Flask/Django/React.js. For the backend I am proficient with
-          Postgresql/SQL/MYSQL and python. On the other-hand, I use HTML, CSS
-          and Javascript for Frontend. I am currently developing an application
-          that can enable International students in thüringen to collaborate and
-          share ideas in other to tackle problems facing their motherland and
-          the society at large.{" "}
+          Hi, I'm Michael a Junior Full-Stack Software Developer.{" "}
           <h5>
-            I also love learning new Technologies such as Machine Learning,
-            other web technologies, Database Technologies and customer relations
-          </h5>
+            {" "}
+            My passion is to become the best there is in my field of expertise
+            especially in African region. From Web-developement (HTML, CSS and
+            JavaScript and its Frameworks), database administration (Oracle, SQL
+            and postgreSQL) to Machine Learning and Robotics.
+          </h5>{" "}
+          I am currently developing an application that can enable International
+          students in thüringen to collaborate and share ideas in other to
+          tackle problems facing their motherland and the society at large.{" "}
         </p>
       </div>
       <div className="about-center section-center">
@@ -66,15 +65,16 @@ const About = () => {
             <div className="content active" id="history">
               <h4>history</h4>
               <p>
-                A Nigerian, born in the Commercial Capital of Africa (Lagos)
-                into the family Anthony and Eunice Ohaya with wonderful
-                siblings. Early years of my educational pursuit took place in
-                the west of the country but my University education took place
-                in the east. I have visited much of my country with more than
-                600 tribes. In the east around 7 states, in the north 4 states
-                and west 5 states where I grew up. I am out-going, friendly,
-                love music, thoughtful and inquisitive. Finally, I love learning
-                new technologies and open to change.
+                A Nigerian, born in Lagos-Africa’s Commercial Capital city, I
+                came from Anthony and Eunice Ohaya’s family and I have wonderful
+                siblings. The early years of my educational pursuit took place
+                in the west of the country but my tertiary education took place
+                in the east. I have visited the length and breadth of my country
+                with more than 600 tribes. In the east around 7 states, in the
+                north 4 states and west 5 states where I grew up. I am
+                out-going, friendly, I love music, thoughtful and inquisitive.
+                Finally, I am passionate about learning new technologies with an
+                open mind towards change.
               </p>
             </div>
             <div className="content" id="vision">

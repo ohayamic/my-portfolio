@@ -133,15 +133,16 @@ const About = () => {
             <div className="content" id="history">
               <h4>history</h4>
               <p>
-                A Nigerian, born in the Commercial Capital of Africa (Lagos)
-                into the family Anthony and Eunice Ohaya with wonderful
-                siblings. Early years of my educational pursuit took place in
-                the west of the country but my University education took place
-                in the east. I have visited much of my country with more than
-                600 tribes. In the east around 7 states, in the north 4 states
-                and west 5 states where I grew up. I am out-going, friendly,
-                love music, thoughtful and inquisitive. Finally, I love learning
-                new technologies and open to change.
+                A Nigerian, born in Lagos-Africa’s Commercial Capital city, I
+                came from Anthony and Eunice Ohaya’s family and I have wonderful
+                siblings. The early years of my educational pursuit took place
+                in the west of the country but my tertiary education took place
+                in the east. I have visited the length and breadth of my country
+                with more than 600 tribes. In the east around 7 states, in the
+                north 4 states and west 5 states where I grew up. I am
+                out-going, friendly, I love music, thoughtful and inquisitive.
+                Finally, I am passionate about learning new technologies with an
+                open mind towards change.
               </p>
             </div>
 

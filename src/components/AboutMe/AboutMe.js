@@ -49,8 +49,10 @@ const About = () => {
           share ideas in other to tackle problems facing their motherland and
           the society at large.{" "}
           <h5>
-            I also love learning new Technologies such as Machine Learning,
-            other web technologies, Database Technologies and customer relations
+            My passion is to become the best there is in my field of expertise
+            especially in African region. From Web-developement (HTML, CSS and
+            JavaScript and its Frameworks), database administration (Oracle, SQL
+            and postgreSQL) to Machine Learning and Robotics.
           </h5>
         </p>
       </div>
